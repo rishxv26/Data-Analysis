@@ -11,3 +11,9 @@ SELECT COUNT(Opponent) AS Cleansheet
 FROM Liverpool_stats
 WHERE (GF > 0 AND GA = 0)
    OR (GF = 0 AND GA = 0);
+```
+
+#### Answer:
+| Cleansheet | 
+| ---------- |
+| 12         | 
