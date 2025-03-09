@@ -10,4 +10,4 @@ I will using available up to date data from FBREF website to analysis the curren
 SELECT COUNT(Opponent) AS Cleansheet
 FROM Liverpool_stats
 WHERE (GF > 0 AND GA = 0)
-   OR (GF = 0 AND GA = 0);![image](https://github.com/user-attachments/assets/94f25735-2a5c-49a9-bb3f-042622c257fd)
+   OR (GF = 0 AND GA = 0);
